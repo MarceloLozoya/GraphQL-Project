@@ -2,7 +2,7 @@
 
 <p>A Node.js server with a GraphQL based API, connected to a cloud Mongo database.</p>
 
-<p><b>Note</b>: As a convenience, all calls to this server will point to it's GraphQL implementation. Written and testing in Node v7.2.0.</p>
+<p><b>Note</b>: As a convenience, all calls to this server will point to it's GraphQL implementation. Written and tested in Node v7.2.0.</p>
 
 <hr>
 
