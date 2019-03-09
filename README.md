@@ -11,6 +11,8 @@
     > npm install
     > npm start
 
+<p><b>Note</b>: Access via localhost:3000</p>
+
 <hr>
 
 ### Event Queries
